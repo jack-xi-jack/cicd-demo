@@ -1,5 +1,5 @@
 # cicd-demo
-最简单的springboot项目，用于测试java项目使用jenkins、gitlab ci打包部署功能，也可以用在argo cd
+这是在公司的开发的CI/CD项目流程，但因为保密协议，因此我自己在重新制作一个，并且用简单的springboot项目，用于测试java项目使用jenkins、gitlab ci打包部署功能，也可以用在argo cd
 
 # 版本依赖
 Openjdk:17.0.7
